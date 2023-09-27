@@ -1,0 +1,22 @@
+.vscode/
+
+# Userfile
+*.cyprj.*
+*.cywrk.*
+
+# Miscellaneous files
+*.cycdx
+*.gsvd
+*.html
+*.pdf
+*.rpt
+*/ComponentUpdateLog.txt
+*.log
+*.cyfit
+
+# Folders
+*codegentemp/
+*CoretexM3/
+*Debug/
+*Generated_Source/
+*Export/

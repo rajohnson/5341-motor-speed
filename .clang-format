@@ -1,0 +1,17 @@
+BasedOnStyle: Google
+IndentWidth: 4 
+TabWidth: 4
+ColumnLimit: 88
+SpaceBeforeParens: Never
+AllowShortFunctionsOnASingleLine: Empty
+AllowShortBlocksOnASingleLine: Never
+AllowShortCaseLabelsOnASingleLine: false
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLambdasOnASingleLine: None
+AllowShortLoopsOnASingleLine: false
+BinPackArguments: false
+BinPackParameters: false
+PointerAlignment: Left
+AlignConsecutiveMacros: true
+AlignAfterOpenBracket: BlockIndent
+AllowAllrgumentsOnNextLine: false
